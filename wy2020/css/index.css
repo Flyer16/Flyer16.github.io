@@ -231,7 +231,8 @@ video::-webkit-media-controls {
 
 .special #video-s {
     width: 100%;
-    object-fit: cover;
+    height: 100%;
+    object-fit: contain !important;
     object-position: center center;
 }
 
