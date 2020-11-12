@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "Z3KNLJSTK9.com.shuqu.banyan",
-                "paths": [ "*" ]
+                "paths": [ "*", "/qq_conn/1106418125/*"]
             }
         ]
     }
